@@ -6,7 +6,7 @@
 
 ## 🎯 Visão Geral
 
-Este projeto é uma API simples porém completa para gerenciar uma coleção de livros. Foi criada com o objetivo de praticar e desenvolver habilidades em desenvolvimento backend com Node.js, focando especialmente em:
+Este projeto é uma API simples porém completa para gerenciar uma coleção de livros. Pode ser utlizada de forma simples servindo seus dados para um projeto FRONT-END utilizando AXIOS. Foi criada com o objetivo de praticar e desenvolver habilidades em desenvolvimento backend com Node.js, focando especialmente em:
 
 - Criação de rotas RESTful
 - Manipulação de requisições HTTP (GET, POST, PATCH, DELETE)
